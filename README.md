@@ -1,1 +1,1 @@
-Solution to 0x00-shell task
+This repository contains the solution to the 0x00-shell task
