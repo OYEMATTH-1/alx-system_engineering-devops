@@ -1,2 +1,1 @@
-task1readme.md
-task2readme.md
+Display the content of /etc/passwd and /etc/hosts
