@@ -6,3 +6,4 @@ Create a script that lists all local variables and environment variables, and fu
 Create a script that creates a new local variabl
 
 e
+Create a script that creates a new global variable
