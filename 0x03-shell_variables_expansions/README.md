@@ -16,3 +16,4 @@ Write a script that prints a number with two decimal places, followed by a new l
 Create a script that counts the number of directories in the PATH
 Create a script that creates a new local variable
 Create a script that creates a new global variable.
+Create a script that creates a new global variable.
