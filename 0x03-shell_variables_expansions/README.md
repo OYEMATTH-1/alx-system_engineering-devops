@@ -15,3 +15,4 @@ Create a script that prints all possible combinations of two letters, except oo
 Write a script that prints a number with two decimal places, followed by a new line
 Create a script that counts the number of directories in the PATH
 Create a script that creates a new local variable
+Create a script that creates a new global variable.
